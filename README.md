@@ -4,7 +4,7 @@ A simple and interactive **Chess Game** built using **HTML, CSS, and JavaScript*
 
 ## 🚀 Live Demo
 
-🔗 **Live Website:** *Add your deployed link here*
+🔗 **Live Website:** https://remillasrivaishnavi.github.io/Chess-Game/
 
 
 ## ✨ Features
